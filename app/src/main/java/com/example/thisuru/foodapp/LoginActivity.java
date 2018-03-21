@@ -42,6 +42,11 @@ public class LoginActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * Validate credencials
+     * @param userName
+     * @param userPassword
+     */
     private void validate(String userName,String userPassword){
         Log.v(TAG, "un " + userName + " pw "+ userPassword);
         if((userName.equals("User") ) && (userPassword.equals("1234"))){
