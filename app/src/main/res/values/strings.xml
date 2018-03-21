@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_title">Items availabale in a shop</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string-array name="shopping_item">
+        <item>Veggies</item>
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Beef</item>
+        <item>Poke</item>
+        <item>Cheese</item>
+        <item>Onion</item>
+        <item>Tuna</item>
+        <item>Milk</item>
+    </string-array>
+</resources>
